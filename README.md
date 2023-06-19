@@ -22,16 +22,10 @@ The test dataset consists of 1000 molecules, each represented by a Simplified Mo
 To reproduce the results of this project, please follow these steps:
 
 1. Download the file "CADD_technologies_solution".
-<<<<<<< HEAD
+
 2. Run the file:\
 Kernel --> Restart & Run All
 
-=======
-2. Run the file:
-
-Kernel --> Restart & Run All
-
->>>>>>> 93c8db3b972351b16d08b6ffef20cb224ead92f4
 3. The final output will include the top 100 molecules from the novel dataset with the highest probability of exhibiting binding affinity to ALDH1. The top 100 molecules is saved to the file "final_top100".
 
 ## Conclusion
